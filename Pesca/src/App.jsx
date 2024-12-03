@@ -4,8 +4,8 @@ import Home from './Components/Home'
 import Navbar from './Components/Navbar'
 import Slider from './Components/Slider'
 import NuestraHistoria from './Components/NuestraHistoria';
-import Ubicacion from './components/Ubicacion';
-import Footer from './components/Footer';
+import Ubicacion from './Components/Ubicacion';
+import Footer from './Components/Footer';
 
 const App = () => {
 
