@@ -3,7 +3,7 @@ import './App.css'
 import Home from './Components/Home'
 import Navbar from './Components/Navbar'
 import Slider from './Components/Slider'
-import NuestraHistoria from './components/NuestraHistoria';
+import NuestraHistoria from './Components/NuestraHistoria';
 import Ubicacion from './components/Ubicacion';
 import Footer from './components/Footer';
 
